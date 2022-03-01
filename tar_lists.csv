@@ -1,0 +1,8 @@
+node:10,node-10.tar
+postgres:9.5-alpine,postgres-9.5-alpine.tar
+postgres:9.6-alpine,postgres-9.6-alpine.tar
+redash/redash:8.0.0.b32245,redash-8.0.0.b32245.tar
+redash/base:debian,redash-base.tar
+redash/nginx:latest,redash-nginx-latest.tar
+redis:3-alpine,redis-3-alpine.tar
+redis:5.0-alpine,redis-5.0-alpine.tar
